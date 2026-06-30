@@ -1,0 +1,14 @@
+{
+  "name": "pearl-salon-website",
+  "version": "1.0.0",
+  "description": "High-fidelity luxury website for Pearl Salon Gujranwala",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
